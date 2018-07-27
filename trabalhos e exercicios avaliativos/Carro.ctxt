@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Carro
+comment1.params=pla\ capacidade\ media
+comment1.target=Carro(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getPlaca()
+comment3.params=
+comment3.target=double\ getLitros()
+comment4.params=
+comment4.target=double\ getMediaDeConsumo()
+comment5.params=x
+comment5.target=void\ abastecer(double)
+comment6.params=x
+comment6.target=void\ setConsumo(double)
+comment7.params=x
+comment7.target=double\ preverCombustivel(double)
+numComments=8

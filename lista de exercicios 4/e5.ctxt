@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=e5
+comment1.params=batman
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=double\ dEuclid(double,\ double,\ double,\ double)
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=double\ dManha(double,\ double,\ double,\ double)
+numComments=4

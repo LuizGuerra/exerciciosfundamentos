@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=app2
+comment1.params=alt\ base
+comment1.target=app2(double,\ double)
+comment2.params=
+comment2.target=double\ area()
+comment3.params=
+comment3.target=double\ per()
+numComments=4

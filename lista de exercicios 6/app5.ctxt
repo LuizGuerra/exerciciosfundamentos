@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=app5
+comment1.params=nome\ matri\ fre\ nota
+comment1.target=app5(java.lang.String,\ int,\ double,\ double[])
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getMatri()
+comment4.params=
+comment4.target=double[]\ nota()
+comment5.params=
+comment5.target=java.lang.String\ apro()
+numComments=6

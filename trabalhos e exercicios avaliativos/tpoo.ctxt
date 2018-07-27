@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=tpoo
+comment1.params=eleT1\ ele1\ eleT2\ ele2
+comment1.target=tpoo(int,\ int[],\ int,\ int[])
+comment2.params=
+comment2.target=int\ getc2()
+comment3.params=
+comment3.target=int\ getc1()
+comment4.params=
+comment4.target=int[]\ uniao()
+comment5.params=
+comment5.target=int[]\ intersec()
+comment6.params=
+comment6.target=void\ contadorInt()
+comment7.params=
+comment7.target=void\ contadorUni()
+numComments=8

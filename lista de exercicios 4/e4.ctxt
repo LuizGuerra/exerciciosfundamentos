@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=e4
+comment1.params=batman
+comment1.target=void\ main(java.lang.String[])
+comment2.params=h\ m\ s
+comment2.target=int\ tempoQuePassou(int,\ int,\ int)
+numComments=3

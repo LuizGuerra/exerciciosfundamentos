@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Operacoes
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Operacoes\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=valor
+comment1.target=double\ fatorialRecursivo(int)
+comment2.params=valor
+comment2.target=double\ fatorialIterativo(int)
+comment3.params=n
+comment3.target=int\ fibonacciRecursivo(int)
+comment4.params=n
+comment4.target=long\ fibonacciIterativo(int)
+numComments=5

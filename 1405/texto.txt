@@ -1,0 +1,4 @@
+Hoje é segunda-feira.
+Dia 14 de maio.
+Estamos na aula de Fundamentos de Programação.
+Curso de Engenharia de Sofware.

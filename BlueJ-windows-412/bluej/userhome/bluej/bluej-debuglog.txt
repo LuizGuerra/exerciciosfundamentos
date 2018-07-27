@@ -1,0 +1,12 @@
+BlueJ run started: Wed Jul 04 14:32:08 BRT 2018
+BlueJ version 4.1.2
+Java version 1.8.0_144
+Virtual machine: Java HotSpot(TM) Client VM 25.144-b01 (Oracle Corporation)
+Running on: Windows 7 6.1 (x86)
+Java Home: B:\BLUE J\BlueJ-windows-412\bluej\jdk\jre
+----
+Opening project: C:\Users\18103852\Desktop\shapes
+1530725529957: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Problem code: 422

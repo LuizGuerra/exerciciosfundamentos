@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LEDTester
+comment0.text=\r\n\ This\ class\ testa\ led\ by\ flashing\ some\ morse\ code\r\n\ @author\ Ian\ Utting\r\n\ @author\ Fabio\ Heday\r\n\ @version\ 02\ Oct\ 2014\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=LEDTester()
+comment2.text=\r\n\ create\ a\ new\ LED\ instance\r\n
+comment3.params=p
+comment3.target=LEDTester(LED)
+comment3.text=\r\n\ Creates\ a\ LED\ instance\ based\ on\ a\ LED\ object\r\n
+comment4.params=
+comment4.target=void\ flash10Times()
+comment4.text=\r\n\ Flashes\ the\ LED\ 10\ times\r\n
+comment5.params=msg
+comment5.target=void\ flashMorse(java.lang.String)
+comment5.text=\r\n\ Sends\ the\ morse\ code\ using\ the\ LED.\r\n
+comment6.params=units
+comment6.target=void\ sleep(int)
+comment6.text=\r\n\ Wait\ units\ times\ the\ defined\ unit\ of\ time\r\n
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Arquivo
+comment1.params=Caminho
+comment1.target=java.lang.String\ Read(java.lang.String)
+comment2.params=Caminho\ Texto
+comment2.target=boolean\ Write(java.lang.String,\ java.lang.String)
+numComments=3

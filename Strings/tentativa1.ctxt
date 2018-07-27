@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=tentativa1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=path
+comment2.target=void\ leitor(java.lang.String)
+comment3.params=path
+comment3.target=void\ escritor(java.lang.String)
+numComments=4

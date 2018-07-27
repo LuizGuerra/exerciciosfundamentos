@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Trabalho1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=aresta
+comment2.target=double\ areaCubo(double)
+comment3.params=aresta\ aresta2\ aresta3
+comment3.target=double\ areaParalelepipedo(double,\ double,\ double)
+comment4.params=r\ h
+comment4.target=double\ areaCilindro(double,\ double)
+comment5.params=r
+comment5.target=double\ areaEsfera(double)
+comment6.params=base\ h
+comment6.target=double\ areaPiramide(double,\ double)
+numComments=7

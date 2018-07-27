@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exercicios
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nomeArquivo
+comment2.target=void\ leituraFrutas(java.lang.String)
+comment3.params=texto
+comment3.target=boolean\ iniciaComA(java.lang.String)
+comment4.params=texto
+comment4.target=int\ contaA(java.lang.String)
+comment5.params=
+comment5.target=void\ leituraReais()
+numComments=6

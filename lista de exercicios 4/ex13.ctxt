@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ex13
+comment1.params=
+comment1.target=void\ main()
+comment2.params=salario\ cargo
+comment2.target=double\ novoS(double,\ int)
+comment3.params=salario\ cargo
+comment3.target=double\ diferen\u00E7a(double,\ int)
+numComments=4

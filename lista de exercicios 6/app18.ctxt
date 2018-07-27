@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=app18
+comment1.params=num\ qt
+comment1.target=app18(int[],\ int)
+comment2.params=
+comment2.target=boolean[]\ caracteristica()
+comment3.params=
+comment3.target=boolean[]\ capicua()
+numComments=4

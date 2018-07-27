@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=b
+comment1.target=int\ boolToInt(java.lang.Boolean)
+comment2.params=sub\ string
+comment2.target=int\ countOccurrencesRecursively(java.lang.String,\ java.lang.String)
+comment3.params=sub\ string
+comment3.target=int\ countOccurrencesIteractively(java.lang.String,\ java.lang.String)
+comment4.params=str
+comment4.target=java.lang.String\ invertString(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

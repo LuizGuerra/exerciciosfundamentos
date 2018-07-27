@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=t3_g
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=eleA\ eleB\ conjAtotal\ conjBtotal
+comment2.target=double[]\ uniao(double[],\ double[],\ int,\ int)
+comment3.params=elementosA\ elementosB\ conjAtotal\ conjBtotal
+comment3.target=double[]\ inter(double[],\ double[],\ int,\ int)
+comment4.params=eleA\ eleB\ conjAtotal\ conjBtotal
+comment4.target=int\ cont1(double[],\ double[],\ int,\ int)
+comment5.params=elementosA\ elementosB\ conjAtotal\ conjBtotal
+comment5.target=int\ cont2(double[],\ double[],\ int,\ int)
+numComments=6

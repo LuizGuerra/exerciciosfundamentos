@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Exemplo1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nomeArquivo
+comment2.target=void\ gravacao(java.lang.String)
+comment3.params=nomeArquivo
+comment3.target=void\ leitura(java.lang.String)
+numComments=4

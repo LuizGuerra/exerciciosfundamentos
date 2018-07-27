@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Exemplo2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=entrada\ saida
+comment2.target=void\ processaFrutas(java.lang.String,\ java.lang.String)
+comment3.params=texto
+comment3.target=boolean\ iniciaComA(java.lang.String)
+numComments=4

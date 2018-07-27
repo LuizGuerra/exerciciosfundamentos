@@ -1,0 +1,4 @@
+1ahniL 1anuloC ; 1ahniL 2anuloC ; 1ahniL 3anuloC 
+2ahniL 1anuloC ; 2ahniL 2anuloC ; 2ahniL 3anuloC 
+3ahniL 1anuloC ; 3ahniL 2anuloC ; 3ahniL 3anuloC 
+

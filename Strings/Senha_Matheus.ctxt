@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Senha_Matheus
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=senha
+comment2.target=int\ verifica6(java.lang.String)
+comment3.params=senha
+comment3.target=int\ pontos(java.lang.String)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=app14
+comment1.params=casaL\ casaC\ terrenoL\ terrenoC
+comment1.target=app14(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ areaT()
+comment3.params=
+comment3.target=double\ arealivre()
+numComments=4

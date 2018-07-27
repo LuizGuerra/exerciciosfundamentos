@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ex9
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ y\ z
+comment2.target=double\ media(double,\ double,\ double)
+comment3.params=x\ y\ z
+comment3.target=double\ maior(double,\ double,\ double)
+numComments=4

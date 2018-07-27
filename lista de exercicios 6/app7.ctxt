@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=app7
+comment1.params=placa\ modelo\ cor\ km\ capacidadeTanque\ quantidadeNoTanque
+comment1.target=app7(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double)
+comment2.params=x
+comment2.target=java.lang.String\ abastecer(double)
+comment3.params=
+comment3.target=void\ setTanque()
+comment4.params=x
+comment4.target=java.lang.String\ andar(double)
+comment5.params=
+comment5.target=void\ setTotalDeGas()
+numComments=6

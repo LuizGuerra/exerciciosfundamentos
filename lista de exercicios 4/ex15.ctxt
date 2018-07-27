@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ex15
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p1\ p2\ p3\ mE\ mA
+comment2.target=java.lang.String\ aprovacao(double,\ double,\ double,\ double,\ double)
+comment3.params=p1\ p2\ p3\ mE
+comment3.target=double\ mA(double,\ double,\ double,\ double)
+numComments=4

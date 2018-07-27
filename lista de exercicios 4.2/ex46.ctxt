@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ex46
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=valor
+comment2.target=double\ soma(int)
+comment3.params=x
+comment3.target=double\ fat(double)
+numComments=4

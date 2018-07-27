@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=T2E1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=valor
+comment2.target=double\ iteratividade(int)
+comment3.params=num
+comment3.target=double\ recursividade(int)
+numComments=4

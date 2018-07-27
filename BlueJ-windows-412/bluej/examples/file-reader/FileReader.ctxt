@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FileReader
+comment0.text=\r\n\ This\ is\ a\ little\ demo\ showing\ how\ to\ read\ text\ files.\ It\ will\ find\ files\r\n\ that\ are\ situated\ anywhere\ in\ the\ classpath.\r\n\r\n\ Currently,\ two\ demo\ methods\ are\ available.\ Both\ simply\ print\ a\ text\ file\ to\ the\r\n\ terminal.\ One\ returns\ exceptions\ in\ case\ of\ a\ problem,\ the\ other\ prints\ out\r\n\ error\ messages.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\ (19.\ Feb\ 2002)\r\n
+comment1.params=
+comment1.target=FileReader()
+comment1.text=\r\n\ Create\ a\ file\ reader\r\n
+comment2.params=fileName
+comment2.target=void\ showFile(java.lang.String)
+comment2.text=\r\n\ Show\ the\ contents\ of\ the\ file\ 'fileName'\ on\ standard\ out\ (the\ text\ terminal).\r\n\r\n\ @param\ fileName\ \ The\ name\ of\ the\ file\ to\ show\r\n\ @throws\ \ IOException\ if\ the\ file\ could\ not\ be\ opened\r\n
+comment3.params=fileName
+comment3.target=void\ checkedShowFile(java.lang.String)
+comment3.text=\r\n\ Same\ as\ 'showfile',\ but\ don't\ throw\ exceptions.\ If\ an\ error\ occurs,\r\n\ write\ an\ error\ message\ to\ the\ terminal.\r\n\r\n\ @param\ fileName\ \ The\ name\ of\ the\ file\ to\ show\r\n
+comment4.params=fileName
+comment4.target=java.io.InputStream\ openFile(java.lang.String)
+comment4.text=\r\n\ Open\ a\ text\ file\ and\ return\ a\ stream\ to\ read\ from\ that\ file.\r\n\ The\ file\ can\ reside\ anywhere\ in\ the\ classpath.\r\n\r\n\ @param\ fileName\ \ The\ name\ of\ the\ file\ to\ open\r\n\ @return\ An\ open\ stream\ to\ read\ from\ the\ file\r\n\ @throws\ \ IOException\ if\ the\ file\ could\ not\ be\ opened\r\n
+numComments=5

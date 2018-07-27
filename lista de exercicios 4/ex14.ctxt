@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ex14
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=hora1\ hora2
+comment2.target=int\ hora(int,\ int)
+comment3.params=min1\ min2
+comment3.target=int\ min(int,\ int)
+numComments=4

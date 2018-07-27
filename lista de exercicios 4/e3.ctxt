@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=e3
+comment1.params=caj\u00E9zinho
+comment1.target=void\ main(java.lang.String[])
+comment2.params=largm\ perimm
+comment2.target=double\ areadacasa(double,\ double)
+comment3.params=largM\ perimM
+comment3.target=double\ areadoperimetro(double,\ double)
+comment4.params=areadacasa\ areadoperimetro
+comment4.target=double\ arealivre(double,\ double)
+numComments=5
